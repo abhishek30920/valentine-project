@@ -12,6 +12,12 @@ const messageTemplates = [
   "My heart beats in emoji when I think of you! 💝 You're my favorite person to bug with random messages.",
   "If love was a playlist, you'd be my favorite song on repeat. Forever my #1 hit!",
   "You're the missing piece to my puzzle, the wifi to my device, the avocado to my toast! 🥑",
+  "With you, I don't need a reason to smile. You’re the one who makes every day feel special.",
+"You make every moment feel like home. I never knew what true happiness was until you walked into my life.",
+"Every time I see you, it's like my heart remembers what joy feels like. You make everything better.",
+"You're my favorite distraction, my sweetest thought, and the reason I believe in forever.",
+"In a world of fleeting moments, you’re my timeless treasure. I’m lucky to call you mine.",
+"Every second spent with you is a memory I’ll hold close to my heart forever. You're everything I ever wanted."
 ];
 
 const FloatingHearts = () => {
